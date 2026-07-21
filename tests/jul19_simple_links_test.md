@@ -11,4 +11,3 @@
 <p><a href="http://www.blog.jsjlxx.cn/article/details/780742547984.shtml">http://www.blog.jsjlxx.cn/article/details/780742547984.shtml</a></p>
 <h2>Exact July 19 source form</h2>
 <p><a href="http://www.blog.jsjlxx.cn/article/details/780742547984.shtml">780742547984.shtml</a></p>
-<p><a href="https://github.com/alikor5141/2026alen/blob/main/http://www.blog.jsjlxx.cn/article/details/780742547984.shtml">780742547984.shtml</a></p>
